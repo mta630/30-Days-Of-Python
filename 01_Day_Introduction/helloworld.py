@@ -17,4 +17,19 @@ print(type(1 + 3j))              # Complex
 print(type('Asabeneh'))          # String
 print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) # Dictionary
-print(type({9.8, 3.14, 2.7}))    # Tuple
+print(type((1, 2, 3, 4)))        # Tuple
+print(type({9.8, 3.14, 2.7}))    # Set
+
+print("Hello World")
+print("Python doesnt seem too hard!")
+
+print("Michael")
+print("Albert")
+print("United States")
+print("I am enjoying 30 days of python")
+
+print("type of 10: ", type(10))
+print("type of 9.8: ", type(9.8))
+print("type of 3.14: ", type(3.14))
+print("type of 4-4j: ",type(4-4j))
+print("type of ['Asabeneh', 'Python', 'Finland']: ", type(['Asabeneh', 'Python', 'Finland']))
